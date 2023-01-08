@@ -22,7 +22,7 @@ export const Sidebar = () => {
       <footer>
         <a href="#">
           <PencilLine size={20} />
-          Editar seu Perfil
+          Edit your profile
         </a>
       </footer>
     </aside>
